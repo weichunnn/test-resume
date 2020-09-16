@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 const ProgressBar = ({ title, percentage }) => {
   return (
@@ -9,6 +10,16 @@ const ProgressBar = ({ title, percentage }) => {
       </div>
     </div>
   );
+};
+
+ProgressBar.propTypes = {
+  title: PropTypes.string.isRequired,
+  percentage: PropTypes.string.isRequired
+};
+
+ProgressBar.defaultProps = {
+  title: 'Default',
+  percentage: '50%'
 };
 
 export default ProgressBar;
