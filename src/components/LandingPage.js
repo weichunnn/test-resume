@@ -2,7 +2,7 @@ import React from 'react';
 
 const LandingPage = () => {
   return (
-    <div className='container background center'>
+    <div className='container landing-background center'>
       <div class='description'>
         <h1>I'm Wei Chun.</h1>
         <h2>
