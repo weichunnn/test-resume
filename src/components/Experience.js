@@ -42,7 +42,7 @@ const Experience = () => {
                   </li>
                   <li>
                     Developed customized lesson plans and worksheets to help
-                    study group members understand concepts to solve problems
+                    study group members understand concepts to solve problems.
                   </li>
                   <li>Raised the average grades of students from B- to A.</li>
                 </ul>
