@@ -89,7 +89,8 @@ li {
 }
 
 .progress-container {
-  margin-bottom: 2rem;
+  width: 70%;
+  margin: 0 auto 2rem auto;
 }
 
 .progress-container h2 {
@@ -98,9 +99,8 @@ li {
 
 .progress {
   margin-top: 0.5rem;
-  width: 90%;
-  background-color: grey;
-  height: 3.5rem;
+  background-color: rgb(170, 170, 170);
+  height: 3rem;
   border-radius: 15px;
 }
 
