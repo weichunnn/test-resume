@@ -87,3 +87,25 @@ li {
   font-size: 1.25rem;
   font-style: italic;
 }
+
+.progress-container {
+  margin-bottom: 2rem;
+}
+
+.progress-container h2 {
+  font-size: 1.35rem;
+}
+
+.progress {
+  margin-top: 0.5rem;
+  width: 90%;
+  background-color: grey;
+  height: 3.5rem;
+  border-radius: 15px;
+}
+
+.bar {
+  height: 100%;
+  background-color: #15202b;
+  border-radius: inherit;
+}
