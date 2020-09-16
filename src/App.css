@@ -175,7 +175,7 @@ li {
   }
 }
 
-@media only screen and (min-width: 540px) and (max-width: 1286px) {
+@media only screen and (min-width: 540px) and (max-width: 1190px) {
   h1 {
     font-size: 3.5rem;
   }
